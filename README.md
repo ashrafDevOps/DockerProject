@@ -1,4 +1,4 @@
-Project Overview
+
 This project demonstrates a three-tier application architecture using Docker containers. The architecture consists of three layers:
 
 Backend Layer: Handles application logic and business processing.
